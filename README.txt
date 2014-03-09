@@ -1,3 +1,4 @@
+Author - Akshat Verma
 This project develops a Hadoop Map Reduce application for recommending friends in a social network based on number of mutual friends
 Input file is assumed to be in the following format:
 A B,C,D
